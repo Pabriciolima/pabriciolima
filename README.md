@@ -3,7 +3,7 @@ Olá me chamo Pabricio lima!
   ##
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 estou estudando typescript
+- 🌱 estou estudando javascript
 - 👯 participo da comunidade CoDe, codando diariamente
 - 📫 contate-me no email: pabricio.dev.1@gmail.com
 - 😄 Pronouns: ele/dele
