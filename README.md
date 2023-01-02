@@ -2,8 +2,8 @@ Olá me chamo Pabricio lima!
  
   ##
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 estou estudando javascript
+- 🔭 Desenvolvedor front-end
+- 🌱 Atualmente estudando Bootstrap5
 - 👯 participo da comunidade CoDe, codando diariamente
 - 📫 contate-me no email: pabricio.dev.1@gmail.com
 - 😄 Pronouns: ele/dele
@@ -12,8 +12,8 @@ Olá me chamo Pabricio lima!
   
 <div align="center">
   <a href="https://github.com/pabriciolima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabriciolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabriciolima&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=pabriciolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabriciolima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
