@@ -3,10 +3,10 @@ Olá me chamo Pabricio lima!
   ##
 
 - 🔭 Desenvolvedor front-end
-- 🌱 Atualmente estudando Bootstrap5
+- 🌱 Atualmente estudando typescript e react
 - 👯 participo da comunidade CoDe, codando diariamente
-- 📫 contate-me no email: pabricio.dev.1@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 contate-me no email: pabricio.lima1@gmail.com
+
 
   ##
   
