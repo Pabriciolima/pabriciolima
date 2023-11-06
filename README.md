@@ -1,11 +1,13 @@
 Olá me chamo Pabricio lima!
  
   ##
+- <h1 align="center">Hi 👋, I'm Pabricio lima</h1>
+<h3 align="center">"Coding Tomorrow, Today: Where Logic Meets Creativity."</h3>
 
-- 🔭 Desenvolvedor front-end
+- 🔭 I’m currently working on **Brazilian Navy as a computer teacher**
 - 🌱 Atualmente estudando typescript e react
 - 👯 participo da comunidade CoDe, codando diariamente
-- 📫 contate-me no email: pabricio.lima1@gmail.com
+- 📫 contate-me no email: **pabricio.lima1@gmail.com** 
 
 
   ##
